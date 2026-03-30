@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Distribution folder
+dist/
+
+# Common development files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
